@@ -1,0 +1,4 @@
+// Adds 2 numbers.
+push pointer 1
+push pointer 2
+add

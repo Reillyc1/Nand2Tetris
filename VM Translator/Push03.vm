@@ -1,0 +1,4 @@
+// Adds 2 numbers.
+push argument 1
+push argument 2
+add
